@@ -4,7 +4,7 @@ AI-powered one-pager PRD generator. Describe your problem → get a structured P
 
 ## Stack
 - **Frontend**: React + TypeScript + Vite + shadcn/ui + Tailwind CSS v4
-- **Backend**: FastAPI + Python + Anthropic Claude API
+- **Backend**: FastAPI + Python + OpenRouter Integration (LLM Gateway)
 
 ## Setup
 
